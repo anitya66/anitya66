@@ -77,7 +77,7 @@ Java Full Stack development, Spring Boot, React, and Spring AI-driven product en
 
 - Portfolio: https://anitya-portfolio.vercel.app/
 - GitHub: https://github.com/anitya66
-- LinkedIn: https://www.linkedin.com/in/anitya-anand/
+- LinkedIn: https://www.linkedin.com/in/anityaanand/
 - LeetCode: https://leetcode.com/u/codewithanitya/
 - GeeksForGeeks: https://www.geeksforgeeks.org/profile/anitya_66
 - Email: mailto:anityaanand8051@gmail.com
